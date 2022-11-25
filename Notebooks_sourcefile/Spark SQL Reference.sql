@@ -1,0 +1,11 @@
+-- Databricks notebook source
+-- MAGIC %md
+-- MAGIC 
+-- MAGIC #[Spark SQL Reference](https://learn.microsoft.com/en-us/azure/databricks/sql/language-manual/)
+-- MAGIC 
+-- MAGIC * ###[Built-in functions](https://learn.microsoft.com/en-us/azure/databricks/sql/language-manual/sql-ref-functions-builtin)
+-- MAGIC 
+-- MAGIC * ###[ANSI compliance](https://learn.microsoft.com/en-us/azure/databricks/sql/language-manual/sql-ref-ansi-compliance)
+-- MAGIC []()
+-- MAGIC []()
+-- MAGIC []()
